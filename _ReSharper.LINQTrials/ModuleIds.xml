@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="8D93B4F9-4653-43C5-BA47-65D9EACF97D6" ModuleId="SetOperators" />
+  <Module PersistentId="F5CE8DF1-9C85-444A-95A6-C00C34D0B401" ModuleId="ConversionOperators" />
+  <Module PersistentId="0838D07A-7520-49DD-B080-55A3564B2BE5" ModuleId="GeneratioOperators" />
+  <Module PersistentId="EE64ADCA-D3D9-444F-AAAB-D4BB5EA4969B" ModuleId="Quantifiers" />
+  <Module PersistentId="DBC056EC-62BE-4CAD-BA6E-08FEAC7D44AE" ModuleId="AggregateOperators" />
+</Modules>

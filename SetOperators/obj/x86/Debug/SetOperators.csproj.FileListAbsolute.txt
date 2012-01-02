@@ -1,0 +1,5 @@
+C:\Nilesh\Projects\LINQTrials\SetOperators\bin\Debug\SetOperators.exe
+C:\Nilesh\Projects\LINQTrials\SetOperators\bin\Debug\SetOperators.pdb
+C:\Nilesh\Projects\LINQTrials\SetOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nilesh\Projects\LINQTrials\SetOperators\obj\x86\Debug\SetOperators.exe
+C:\Nilesh\Projects\LINQTrials\SetOperators\obj\x86\Debug\SetOperators.pdb

@@ -1,0 +1,5 @@
+C:\Nilesh\Projects\LINQTrials\AggregateOperators\bin\Debug\AggregateOperators.exe
+C:\Nilesh\Projects\LINQTrials\AggregateOperators\bin\Debug\AggregateOperators.pdb
+C:\Nilesh\Projects\LINQTrials\AggregateOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nilesh\Projects\LINQTrials\AggregateOperators\obj\x86\Debug\AggregateOperators.exe
+C:\Nilesh\Projects\LINQTrials\AggregateOperators\obj\x86\Debug\AggregateOperators.pdb

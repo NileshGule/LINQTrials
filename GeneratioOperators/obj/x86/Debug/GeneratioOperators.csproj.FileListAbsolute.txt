@@ -1,0 +1,5 @@
+C:\Nilesh\Projects\LINQTrials\GeneratioOperators\bin\Debug\GeneratioOperators.exe
+C:\Nilesh\Projects\LINQTrials\GeneratioOperators\bin\Debug\GeneratioOperators.pdb
+C:\Nilesh\Projects\LINQTrials\GeneratioOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nilesh\Projects\LINQTrials\GeneratioOperators\obj\x86\Debug\GeneratioOperators.exe
+C:\Nilesh\Projects\LINQTrials\GeneratioOperators\obj\x86\Debug\GeneratioOperators.pdb

@@ -1,0 +1,5 @@
+C:\Nilesh\Projects\LINQTrials\ConversionOperators\bin\Debug\ConversionOperators.exe
+C:\Nilesh\Projects\LINQTrials\ConversionOperators\bin\Debug\ConversionOperators.pdb
+C:\Nilesh\Projects\LINQTrials\ConversionOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nilesh\Projects\LINQTrials\ConversionOperators\obj\x86\Debug\ConversionOperators.exe
+C:\Nilesh\Projects\LINQTrials\ConversionOperators\obj\x86\Debug\ConversionOperators.pdb

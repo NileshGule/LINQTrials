@@ -1,0 +1,5 @@
+C:\Nilesh\Projects\LINQTrials\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Nilesh\Projects\LINQTrials\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Nilesh\Projects\LINQTrials\Quantifiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nilesh\Projects\LINQTrials\Quantifiers\obj\x86\Debug\Quantifiers.exe
+C:\Nilesh\Projects\LINQTrials\Quantifiers\obj\x86\Debug\Quantifiers.pdb
